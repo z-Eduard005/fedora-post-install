@@ -4,13 +4,16 @@
 ### Essential apps (From "Software")
 - Extension Manager - (system customization)
 - Gnome Tweaks - (system customization)
+--settings
 - Bottles (run windows applications)
 - qBittorrent (best torrent downloader)
 - LACT (amd-gpu tweaks)
+--settings
 - Mission Center (just better then default one)
 - Pinta (simple paint analog)
 - Flatseal (flatpak apps manager)
 - Steam (games)
+--settings
 
 ### Recomended apps
 #### From "Software"
@@ -20,44 +23,38 @@
 - Easy Effects (audio booster)
 
 #### From other source
-- [Youtube Music (youtube music advanced app)](github.com/pear-devs/pear-desktop/releases) 
-- [Vicinae (beautiful and very customizible app launcher)](github.com/vicinaehq/vicinae/releases)
-docs.vicinae.com/install/script
-docs.vicinae.com/quickstart/gnome
-- [fedora-mc-installer (automatic minecraft cli installer)](github.com/z-Eduard005/fedora-mc-installer)
-- [oh-my-zsh (usefull functionallity for terminal)](ohmyz.sh)
-
-## System settings
+- [Youtube Music](github.com/pear-devs/pear-desktop/releases) (youtube music advanced app)
+- [Vicinae](github.com/vicinaehq/vicinae/releases) (beautiful and customizible app launcher)
+--docs.vicinae.com/install/script
+--docs.vicinae.com/quickstart/gnome
+- [fedora-mc-installer](github.com/z-Eduard005/fedora-mc-installer) (automatic minecraft cli installer)
+- [oh-my-zsh](ohmyz.sh) (usefull functionallity for terminal)
 
 ## Extensions (From Extension Manager)
 ### Essential extensions
-- [AppIndicator and KStatusNotifierItem Support (opened background apps indicators and settings for them)](extensions.gnome.org/extension/615/appindicator-support)
-- [Auto Move Windows (place window to choosen workspace)](extensions.gnome.org/extension/16/auto-move-windows)
-- [Blur my Shell (blur all system in beautiful way)](extensions.gnome.org/extension/3193/blur-my-shell)
-- [Clipboard History (clipboard history manager)](extensions.gnome.org/extension/4839/clipboard-history)
-- [Color Picker (beautiful and simple color picker)](extensions.gnome.org/extension/3396/color-picker)
-- [Quick Lang Switch (switches languges without ui animation)](extensions.gnome.org/extension/4559/quick-lang-switch)
-- [Rounded Window Corners Reborn (rounded corners for all windows)](extensions.gnome.org/extension/7048/rounded-window-corners-reborn)
-- [Touchpad Switcher (lets disable touchpad)](extensions.gnome.org/extension/7373/touchpad-switcher)
-- [Vitals (shows vital information about system)](extensions.gnome.org/extension/1460/vitals)
+- [AppIndicator and KStatusNotifierItem Support](extensions.gnome.org/extension/615/appindicator-support) (opened background apps indicators and settings for them)
+- [Auto Move Windows](extensions.gnome.org/extension/16/auto-move-windows) (place window to choosen workspace)
+- [Blur my Shell](extensions.gnome.org/extension/3193/blur-my-shell) (blur all system in beautiful way)
+- [Clipboard History](extensions.gnome.org/extension/4839/clipboard-history) (clipboard history manager)
+- [Color Picker](extensions.gnome.org/extension/3396/color-picker) (beautiful and simple color picker)
+- [Quick Lang Switch](extensions.gnome.org/extension/4559/quick-lang-switch) (switches languges without ui animation)
+- [Rounded Window Corners Reborn](extensions.gnome.org/extension/7048/rounded-window-corners-reborn) (rounded corners for all windows)
+- [Touchpad Switcher](extensions.gnome.org/extension/7373/touchpad-switcher) (lets disable touchpad)
+- [Vitals](extensions.gnome.org/extension/1460/vitals) (shows vital information about system)
 
-### Additional usefull extensions
-- [Just Perfection (more settings for all system)](extensions.gnome.org/extension/3843/just-perfection)
-- [Open Bar (top bar customization)](extensions.gnome.org/extension/6580/open-bar)
-- [Hide Top Bar (hides top bar)](extensions.gnome.org/extension/545/hide-top-bar)
-- [Dash to Dock (dock like macos)](extensions.gnome.org/extension/307/dash-to-dock)
-
-## Gnome Tweaks settings
-
-## Steam settings
+### Additional extensions
+- [Dash to Dock](extensions.gnome.org/extension/307/dash-to-dock) (dock like macos)
+- [Just Perfection](extensions.gnome.org/extension/3843/just-perfection) (more settings for all system)
+- [Open Bar](extensions.gnome.org/extension/6580/open-bar) (top bar customization)
+- [Hide Top Bar](extensions.gnome.org/extension/545/hide-top-bar) (hides top bar)
 
 ## Firefox (Zen) Browser extensions
-- [Browsec VPN (simple VPN)](addons.mozilla.org/en-US/firefox/addon/browsec)
-- [AdGuard AdBlocker (best adblocker)](addons.mozilla.org/en-US/firefox/addon/adguard-adblocker)
-- [Dark Reader (best dark theme for all sites)](addons.mozilla.org/en-US/firefox/addon/darkreader)
-- [Return YouTube Dislike (returns youtube dislike)](addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes)
-- [Youtube-shorts block (blocks youtube shorts everywhere)](addons.mozilla.org/en-US/firefox/addon/youtube-shorts-block)
+- [Browsec VPN](addons.mozilla.org/en-US/firefox/addon/browsec) (simple VPN)
+- [AdGuard AdBlocker](addons.mozilla.org/en-US/firefox/addon/adguard-adblocker) (best adblocker)
+- [Dark Reader](addons.mozilla.org/en-US/firefox/addon/darkreader) (best dark theme for all sites)
+- [Return YouTube Dislike](addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes) (returns youtube dislike)
+- [Youtube-shorts block](addons.mozilla.org/en-US/firefox/addon/youtube-shorts-block) (blocks youtube shorts everywhere)
+
+## System settings
 
 ## Tips
-## Additional stuff
-
